@@ -1,0 +1,77 @@
+calculating the fmeasures
+book1_page8.bmp
+(3880, 2864, 3)
+(3880, 2864)
+book1_page8.bmp
+0.9866293027225552
+book1_page8.bmp
+0.9754864821079161
+book1_page8.bmpis finished
+
+book3_page1.bmp
+(3557, 2649, 3)
+(3557, 2649)
+book3_page1.bmp
+0.9835498871657337
+book3_page1.bmp
+0.9578373458609848
+book3_page1.bmpis finished
+
+book1_page11.bmp
+(3880, 2816, 3)
+(3880, 2816)
+book1_page11.bmp
+0.9966718057900791
+book1_page11.bmp
+0.9946377479912983
+book1_page11.bmpis finished
+
+book2_page2.bmp
+(3789, 2709, 3)
+(3789, 2709)
+book2_page2.bmp
+0.9681713702942524
+book2_page2.bmp
+0.9626096768777934
+book2_page2.bmpis finished
+
+book1_page16.bmp
+(3656, 2872, 3)
+(3656, 2872)
+book1_page16.bmp
+0.9875142899468652
+book1_page16.bmp
+0.9254418907415753
+book1_page16.bmpis finished
+
+book1_page1.bmp
+(3913, 2857, 3)
+(3913, 2857)
+book1_page1.bmp
+0.9842374749667626
+book1_page1.bmp
+0.974470448342947
+book1_page1.bmpis finished
+
+book1_page7.bmp
+(3825, 2881, 3)
+(3825, 2881)
+book1_page7.bmp
+0.9884469877218717
+book1_page7.bmp
+0.9791726618378495
+book1_page7.bmpis finished
+
+book1_page18.bmp
+(3929, 2945, 3)
+(3929, 2945)
+book1_page18.bmp
+0.9897200741720099
+book1_page18.bmp
+0.988078242462301
+book1_page18.bmpis finished
+
+main f measure:
+0.985617649098
+side f measure:
+0.969716812028
